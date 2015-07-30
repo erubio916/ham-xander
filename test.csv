@@ -1,5 +1,5 @@
 Case No.,Scenario #/Name,Date Completed,Completed By,Comment(s),Issue,
-1,Verify DIV Placements against Comps,,,,,
+:1,Verify DIV Placements against Comps,,,,,
 2,Verify that user is able to sign up for a new ShopRunner trial membership,,,,,
 3,Verify that user is able to sign up for a new ShopRunner Amex membership,,,,,
 4,"Verify that user is unable to Sign-Up for a new membership with the following: 

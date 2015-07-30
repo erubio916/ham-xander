@@ -2,11 +2,11 @@ Case No.,Scenario #/Name,Date Completed,Completed By,Comment(s),Issue,
 :1,Verify DIV Placements against Comps,,,,,
 2,Verify that user is able to sign up for a new ShopRunner trial membership,,,,,
 3,Verify that user is able to sign up for a new ShopRunner Amex membership,,,,,
-4,"Verify that user is unable to Sign-Up for a new membership with the following: 
-a. Pre-existing Full or Trial Membership.
-b. Email Address that is associated to an account that is On Hold.
-c. Email Address that is associated to an account that is cancelled
-",,,,,
+4,Verify that user is unable to Sign-Up for a new membership with the following: 
+Pre-existing Full or Trial Membership.
+Email Address that is associated to an account that is On Hold.
+Email Address that is associated to an account that is cancelled
+,,,,,
 5," Verify the Existing User is able to Sign-In on Partner Site on the following Partner Pages:
 a. Product Page
 b. Cart or CheckOut Page
